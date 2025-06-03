@@ -1,4 +1,4 @@
-        // Store our API keys and endpoint for Adzuna
+// Store our API keys and endpoint for Adzuna
         const API_CONFIG = {
             adzuna: {
                 appId: 'c627a7b9', // Replace with your valid Adzuna app ID
